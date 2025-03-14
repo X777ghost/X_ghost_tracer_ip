@@ -17,5 +17,5 @@ cd  X_ghost_tracer_ip.sh
 ./X_ghost_tracer_ip.sh
 
 ### TESTED ON
-**KALI LINUX**
+**KALI LINUX** and 
 **TERMUX**
